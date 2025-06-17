@@ -1,2 +1,22 @@
-# PRODIGY_WD_01
-An interactive fixed-position navigation menu that changes color on scroll and on hover using HTML, CSS, and JavaScript. Designed to stay visible on all pages and enhance user experience with dynamic interactivity.
+# 🚀 Interactive Navigation Menu
+
+An interactive and responsive **navigation menu** built with **HTML, CSS, and JavaScript**. This menu is designed to improve user experience with smooth scrolling behavior and stylish hover effects. 🌐✨
+
+---
+
+## 🎯 Features
+
+✅ Fixed at the top of the page  
+✅ Background color changes when scrolled  
+✅ Smooth hover animations on menu items  
+✅ Fully responsive and clean design  
+✅ Works across all pages
+
+---
+
+## 🛠️ Technologies Used
+
+- 🌐 HTML5  
+- 🎨 CSS3  
+- ⚙️ JavaScript (Vanilla JS)
+
