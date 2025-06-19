@@ -28,7 +28,7 @@ This project demonstrates how to create a fixed, responsive, and interactive nav
 
 🖥️ Here's how the navigation menu looks in the browser. The nav stays fixed at the top and interacts based on user scroll or hover.
 
-> *(Add your screenshot here: e.g. navbar-screenshot.png)*
+🔗 Click here to view live: (https://github.com/user-attachments/assets/b5dddb19-9116-4129-81dd-1eb4846099d3)
 
 ---
 
@@ -42,6 +42,7 @@ This project demonstrates how to create a fixed, responsive, and interactive nav
 
 ---
 
+
 ## 📲 Live Demo
 
 🔗 Click here to view live: (https://yogeshmishra02.github.io/PRODIGY_WD_01/)
@@ -53,7 +54,7 @@ This project demonstrates how to create a fixed, responsive, and interactive nav
 If you have any feedback or suggestions, feel free to connect:
 
 📧 Email: yogeshmishra6000@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/yogesh-mishra-a1a32a29b/)
+💼 [LinkedIn](([https://www.linkedin.com/in/yogesh-mishra-a1a32a29b/])
 
 ---
 
