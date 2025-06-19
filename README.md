@@ -28,7 +28,8 @@ This project demonstrates how to create a fixed, responsive, and interactive nav
 
 🖥️ Here's how the navigation menu looks in the browser. The nav stays fixed at the top and interacts based on user scroll or hover.
 
-🔗 Click here to view live: (https://github.com/user-attachments/assets/b5dddb19-9116-4129-81dd-1eb4846099d3)
+🔗 Click here to view live: ![Screenshot 2025-06-19 224420](https://github.com/user-attachments/assets/04000681-08c3-48fb-9ad7-f5ce6931a862)
+
 
 ---
 
